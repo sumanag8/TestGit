@@ -1,11 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 kanthi
-=======
 addition this feature
-
->>>>>>> master
-=======
-addition this feature
-
->>>>>>> feature1
